@@ -1,0 +1,6 @@
+id1 atahan altan sifre1 Banka1 111111 23
+id2 isim1 soyad1 sifre2 Banka2 222222 456
+id3 isim2 soyad2 sifre3 Banka3 333333 789
+id4 isim3 soyad3 sifre4 Banka1 444444 987
+id5 isim4 soyad4 sifre5 Banka2 555555 876
+id6 isim5 soyad5 sifre6 Banka3 666666 765
